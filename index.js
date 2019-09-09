@@ -4,5 +4,7 @@ this.homestate= homestate;
 this.training= training; 
 }
 
-veto(){ }
+veto(){  return 'No, I must disagree'}
+
+
 } 
