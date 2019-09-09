@@ -26,4 +26,4 @@ releasePressStatement() {
   }
 } 
 
-class Ceo 
+class Ceo extends BoardMember { } 
