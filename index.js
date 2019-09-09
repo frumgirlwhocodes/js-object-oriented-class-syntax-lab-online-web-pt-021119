@@ -3,4 +3,6 @@ this.name= name;
 this.homestate= homestate;
 this.training= training; 
 }
+
+
 } 
