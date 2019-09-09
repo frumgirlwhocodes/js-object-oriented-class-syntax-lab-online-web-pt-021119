@@ -1,6 +1,6 @@
-class BoardMember { constructor (name, homestate, training) {
+class BoardMember { constructor (name, homeState, training) {
 this.name= name;
-this.homestate= homestate;
+this.homestate= homeState;
 this.training= training; 
 }
 
@@ -22,7 +22,7 @@ releasePressStatement() {
   }
 
   sayHi() {
-    return `Hi, my name is ${this.name}. I am from ${this.homestate}, and I was trained in ${this.training}.`
+    return `Hi, my name is ${this.name}. I am from ${this.homeState}, and I was trained in ${this.training}.`
   }
 } 
 
