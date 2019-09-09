@@ -4,7 +4,17 @@ this.homestate= homestate;
 this.training= training; 
 }
 
-veto(){  return 'No, I must disagree'}
+veto(){  
+  return 'No, I must disagree'
+  
+}
 
+approve(){
+  return 'You can do that!'
+}
+
+doCharity() {
+  return 'I like to help people'
+}
 
 } 
