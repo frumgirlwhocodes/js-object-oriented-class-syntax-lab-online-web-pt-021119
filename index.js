@@ -4,5 +4,5 @@ this.homestate= homestate;
 this.training= training; 
 }
 
-
+veto()
 } 
